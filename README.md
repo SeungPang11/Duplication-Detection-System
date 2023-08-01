@@ -21,5 +21,9 @@ The reference article should be excluded from the output.
   Details of the algorithm can be found here: http://infolab.stanford.edu/~ullman/mmds/ch3.pdf <br />
 
 ## Method
+<img width="731" alt="Screen Shot 2023-07-16 at 9 57 39 PM" src="https://github.com/SeungPang11/Duplication-Detection-System/assets/67944800/c7c70cb0-e5cd-4c0b-8880-05f6989a9929">
+
+<img width="907" alt="Screen Shot 2023-07-17 at 7 35 07 PM" src="https://github.com/SeungPang11/Duplication-Detection-System/assets/67944800/128c32c6-028f-44dd-b8a0-a347bbb49306">
+
 
 
