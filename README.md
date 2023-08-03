@@ -15,7 +15,7 @@ The reference article should be excluded from the output.
 ## Objective
 * The project aims to build a scalable and effective system to detect copying and plagiarism <br />
   using the **Minhash/LSH** algorithm, which relies on the concept of distances to define similarity. <br /> 
-  For this exercise, **Jaccard similarity** is used to calculate the distance. <br /> <br />
+  For this exercise, **Jaccard similarity** calculates the distance. <br /> <br />
 * **Minhash/LSH** is an algorithm based on cryptographic hashes that compute the similarity <br />
   between a pair of entities. It is heavily used in Web Search and product similarity.  <br />
   Details of the algorithm can be found here: http://infolab.stanford.edu/~ullman/mmds/ch3.pdf <br />
@@ -25,7 +25,8 @@ The reference article should be excluded from the output.
 <img width="500" alt="Screen Shot 2023-07-16 at 9 57 19 PM" src="https://github.com/SeungPang11/Duplication-Detection-System/assets/67944800/15ff9e52-e091-4e25-8b7d-565d9b9daa3d"> <br />
 
 *  <br />
-*  <br /> 
+*  <br />
+## Output
 *  Most simialr articles sorted by Jaccard Similarity score <br /> <img width="500" alt="Screen Shot 2023-07-17 at 7 35 07 PM" src="https://github.com/SeungPang11/Duplication-Detection-System/assets/67944800/128c32c6-028f-44dd-b8a0-a347bbb49306">
 
 
