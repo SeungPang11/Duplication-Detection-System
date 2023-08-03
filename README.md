@@ -6,7 +6,7 @@ _**Tools**_: Spark, SQL <br>
 ## Datasets
 * **articles1.csv** include data on articles 
 * The attributes are **id, title, publication, author, date, year, month, url, and content** <br />
-<img width="600" alt="Screen Shot 2023-07-16 at 9 57 19 PM" src="https://github.com/SeungPang11/Duplication-Detection-System/assets/67944800/15ff9e52-e091-4e25-8b7d-565d9b9daa3d"> <br />
+<img width="500" alt="Screen Shot 2023-07-16 at 9 57 39 PM" src="https://github.com/SeungPang11/Duplication-Detection-System/assets/67944800/c7c70cb0-e5cd-4c0b-8880-05f6989a9929"> <br />
 
 * The following reference article will be used to find duplicate articles <br /> 
 * **69716**, “California lifted its mandatory water restrictions - that could be a huge mistake”. <br /> 
@@ -21,9 +21,12 @@ The reference article should be excluded from the output.
   Details of the algorithm can be found here: http://infolab.stanford.edu/~ullman/mmds/ch3.pdf <br />
 
 ## Method
-<img width="731" alt="Screen Shot 2023-07-16 at 9 57 39 PM" src="https://github.com/SeungPang11/Duplication-Detection-System/assets/67944800/c7c70cb0-e5cd-4c0b-8880-05f6989a9929">
+* Text Pre-Processing <br />
+<img width="500" alt="Screen Shot 2023-07-16 at 9 57 19 PM" src="https://github.com/SeungPang11/Duplication-Detection-System/assets/67944800/15ff9e52-e091-4e25-8b7d-565d9b9daa3d"> <br />
 
-<img width="907" alt="Screen Shot 2023-07-17 at 7 35 07 PM" src="https://github.com/SeungPang11/Duplication-Detection-System/assets/67944800/128c32c6-028f-44dd-b8a0-a347bbb49306">
+*  <br />
+*  <br /> 
+*  Most simialr articles sorted by Jaccard Similarity score <br /> <img width="500" alt="Screen Shot 2023-07-17 at 7 35 07 PM" src="https://github.com/SeungPang11/Duplication-Detection-System/assets/67944800/128c32c6-028f-44dd-b8a0-a347bbb49306">
 
 
 
