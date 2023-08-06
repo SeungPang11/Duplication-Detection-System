@@ -1,6 +1,6 @@
 # Duplication-Detection-System
 
-_**Techniques**_: Minhash/LSH, Jaccard Similarity <br />
+_**Techniques**_: Text-Preprocessing, Minhash/LSH, Jaccard Similarity <br />
 _**Tools**_: Spark, SQL <br>
 
 ## Datasets
