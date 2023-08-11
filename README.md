@@ -10,7 +10,7 @@ _**Tools**_: Spark, SQL <br>
 
 * The following reference article will be used to find duplicate articles <br /> 
 * **69716**, “California lifted its mandatory water restrictions - that could be a huge mistake”. <br /> 
-The reference article should be excluded from the output.
+The reference article should be excluded from the output. 
 
 ## Objective
 * The project aims to build a scalable and effective Duplicate Detection System that detects plagiarism <br />
