@@ -12,7 +12,7 @@ _**Tools**_: Spark, SQL <br>
 * **69716**, “California lifted its mandatory water restrictions - that could be a huge mistake”. <br /> 
 The reference article should be excluded from the output. 
 
-## Objective
+## Objective 
 * The project aims to build a scalable and effective Duplicate Detection System that detects plagiarism <br />
   by using the **Minhash/LSH** algorithm, which relies on the concept of distances to define similarity. <br /> 
   For this project, **Jaccard similarity** calculates the distance. <br /> <br />
