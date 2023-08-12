@@ -21,7 +21,7 @@ The reference article should be excluded from the output.
   Details of the algorithm can be found here: http://infolab.stanford.edu/~ullman/mmds/ch3.pdf <br />
 
 ## Method
-* Text Pre-Processing <br />
+* Text Pre-Processing <br /> 
 <img width="500" alt="Screen Shot 2023-07-16 at 9 57 19 PM" src="https://github.com/SeungPang11/Duplication-Detection-System/assets/67944800/15ff9e52-e091-4e25-8b7d-565d9b9daa3d"> <br />
 
 *  <br />
