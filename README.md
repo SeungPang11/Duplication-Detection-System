@@ -1,7 +1,7 @@
 # Duplication-Detection-System
 
 _**Techniques**_: Text-Preprocessing, Minhash/LSH, Jaccard Similarity <br />
-_**Tools**_: Spark, SQL <br> 
+_**Tools**_: Spark, SQL <br>  
  
 ## Datasets
 * **articles1.csv** includes data on over 50,000 articles 
