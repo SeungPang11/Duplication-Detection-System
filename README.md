@@ -3,7 +3,7 @@
 _**Techniques**_: Text-Preprocessing, Minhash/LSH, Jaccard Similarity <br />
 _**Tools**_: Spark, SQL <br>  
  
-## Datasets
+## Datasets 
 * **articles1.csv** includes data on over 50,000 articles 
 * The attributes: **id, title, publication, author, date, year, month, url, and content** <br />
 <img width="500" alt="Screen Shot 2023-07-16 at 9 57 39 PM" src="https://github.com/SeungPang11/Duplication-Detection-System/assets/67944800/c7c70cb0-e5cd-4c0b-8880-05f6989a9929"> <br />
